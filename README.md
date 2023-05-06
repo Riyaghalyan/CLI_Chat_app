@@ -9,11 +9,13 @@ Python 3.6 or higher
  
 # usage
 To start the server, run the following command in your terminal:
+
 python server.py
 
 This will start the server and listen for incoming connections on port 55555.
 
 To connect to the server, run the following command in a new terminal window:
+
 python client.py
 
 This will start the client and prompt you to enter your nickname. Once you enter your nickname, you will be connected to the chat room and be able to chat with other clients.
