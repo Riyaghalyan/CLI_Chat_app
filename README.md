@@ -5,7 +5,7 @@ This is a simple chat server written in Python that allows multiple clients to c
 Python 3.6 or higher
 
 # installation
- git clone  
+ git clone  https://github.com/Riyaghalyan/CLI_Chat_app
  
 # usage
 To start the server, run the following command in your terminal:
